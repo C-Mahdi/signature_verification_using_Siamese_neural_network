@@ -1,0 +1,10 @@
+how to run :
+after installing all the requirements
+install : react , npm , pnpm 
+
+*backend
+1. run api.py
+*frontend 
+2. open front folder
+3. go to the terminal and open git bash write pnpm
+  
