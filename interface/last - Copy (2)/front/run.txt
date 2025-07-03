@@ -1,0 +1,3 @@
+open git bash
+
+ pnpm run dev
